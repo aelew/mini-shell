@@ -2,8 +2,6 @@
 
 A minimal shell made in Python.
 
-![Example](./images/example.png)
-
 ## Features
 
 - Shell built-ins:
@@ -12,6 +10,8 @@ A minimal shell made in Python.
   - Exit command (`exit`)
 
 - Support for other system/application commands
+
+![Example](./images/example.png)
 
 ## Usage
 
