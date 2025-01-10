@@ -2,6 +2,8 @@
 
 A minimal shell made in Python.
 
+![Example](./images/example.png)
+
 ## Features
 
 - Shell built-ins:
